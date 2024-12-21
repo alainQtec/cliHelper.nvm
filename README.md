@@ -1,7 +1,6 @@
-﻿
-# [cliHelper.nvm](https://www.powershellgallery.com/packages/cliHelper.nvm)
+﻿# [cliHelper.nvm](https://www.powershellgallery.com/packages/cliHelper.nvm)
 
-🔥 Blazingly fast PowerShell thingy that stonks up your terminal game.
+🔥 simple node version manager.
 
 ## Usage
 
